@@ -13,7 +13,7 @@ function HomeGrid() {
   ];
 
   return (
-    <div className="grid grid-cols-2 gap-4 p-10">
+    <div className="grid grid-cols-2 gap-4 p-5">
       {images.map((image) => (
         <div key={image.id} className="overflow-hidden rounded-lg shadow-md">
           <img src={image.src} alt={image.alt} className="w-full aspect-square object-cover" />

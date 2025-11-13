@@ -12,7 +12,6 @@ function HomePage() {
         <Nameslip/>
         <Herohome/>
         <HomeGrid/>
-        <Herohome/>
         <Footer/>
       
     </div>
