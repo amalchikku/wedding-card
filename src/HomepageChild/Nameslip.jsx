@@ -14,7 +14,7 @@ function Nameslip() {
           tracking-wide 
         "
       >
-        JENNY & THOMAS
+        PRINCE & ALICE
       </h1>
     </div>
   )

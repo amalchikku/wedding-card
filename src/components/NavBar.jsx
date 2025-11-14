@@ -7,7 +7,7 @@ function NavBar() {
     <>
       <nav className="bg-black p-4 flex justify-between items-center">
         {/* Logo */}
-        <h1 className="text-3xl font-extralight text-white">J & T</h1>
+        <h1 className="text-3xl font-extralight text-white">P  & A</h1>
 
         {/* Hamburger icon (only visible on mobile) */}
         <button

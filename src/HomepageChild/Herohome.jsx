@@ -11,8 +11,7 @@ function Herohome() {
         text-white text-center
         px-4 sm:px-10 md:px-16 lg:px-24
       "
-      style={{ backgroundImage: `url(${bgimg})` }}
-    >
+      style={{ backgroundImage: `url(${bgimg})` }}>
       <div className="bg-black/50 p-4 sm:p-10 md:p-16 rounded-2xl">
         <p
           className="
@@ -23,11 +22,11 @@ function Herohome() {
           With love and gratitude, we invite you to <br />
           share in the joy of our wedding day. <br />
           <span className="block mt-4">
-            Saturday, September 20, 2025
+            Saturday, December 20, 2025
           </span>
           <span className="block">
-            The Golden Elm Manor, <br />
-            St. Augustine, New York
+            Krishkripa Auditorium, <br />
+            Vadakar , Kozhikode
           </span>
         </p>
       </div>

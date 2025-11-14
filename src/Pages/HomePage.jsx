@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Nameslip from '../HomepageChild/Nameslip'
 import Herohome from '../HomepageChild/Herohome'
 import HomeGrid from '../HomepageChild/HomeGrid'
+import HomeBtn from '../HomepageChild/HomeBtn'
 
 function HomePage() {
   return (
@@ -12,6 +13,7 @@ function HomePage() {
         <Nameslip/>
         <Herohome/>
         <HomeGrid/>
+        <HomeBtn/>
         <Footer/>
       
     </div>
